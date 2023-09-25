@@ -32,10 +32,9 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 ### Contact 
-- 이메일: bcspeirs@icloud.com
+- E-Mail : bcspeirs@icloud.com
 - Instagram: [Instagram Profile](https://www.instagram.com/c.speirs_99/)
-
-
+- Discord : 샤크넬#2971
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharknell&show_icons=true&theme=transparent)
 
