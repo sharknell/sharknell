@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
+### Contact 
+- 이메일: bcspeirs@icloud.com
+- Instagram: [Instagram Profile](https://www.instagram.com/c.speirs_99/)
 
 
 
