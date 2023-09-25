@@ -38,8 +38,8 @@
 
 
 ### 프로젝트
-- [프로젝트 1](https://github.com/sharknell/WebSiteMil): 프로젝트 1에 대한 간략한 설명
-- [프로젝트 2](PROJECT_LINK): 프로젝트 2에 대한 간략한 설명
+- [Web Project](https://github.com/sharknell/WebSiteMil): SpringBoot를 이용한 Web Project 
+- [Java](PROJECT_LINK): Java 언어 이해를 위해, GUI(java swing)을 이용한 채팅 프로그램
 
 
 
