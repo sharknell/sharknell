@@ -41,8 +41,9 @@
 
 
 ### 프로젝트
-- [Web Project](https://github.com/sharknell/WebSiteMil): SpringBoot를 이용한 Web Project 
-- [Java](https://github.com/sharknell/ChattingPrograme): Java 언어 이해를 위해, GUI(java swing)을 이용한 채팅 프로그램
+- <strong> 1st. </strong> [Web Project](https://github.com/sharknell/Website): SpringBoot 를 이용한 Web Project
+- <strong> 2st. </strong> [Web Project](https://github.com/sharknell/WebSiteMil): SpringBoot를 이용한 Web Project(개인 프로젝트) 
+- <strong> 3st. </strong> [Java](https://github.com/sharknell/ChattingPrograme): Java 언어 이해를 위해, GUI(java swing)을 이용한 채팅 프로그램
 
 
 
