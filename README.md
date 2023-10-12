@@ -40,7 +40,7 @@
 ### Contact 
 - E-Mail : bcspeirs@icloud.com
 - [![Instagram](https://img.shields.io/badge/Instagram-8134AF.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.speirs_99/)
-- Discord : 샤크넬#2971
+- [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](샤크넬#2971)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharknell&show_icons=true&theme=transparent)
 
