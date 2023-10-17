@@ -45,6 +45,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharknell&show_icons=true&theme=transparent)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sharknell&theme=synthwave" alt="GitHub Streak" /></a>
 
 
 ### 프로젝트
@@ -54,6 +55,13 @@
 - <strong> 3st. </strong> [Java](https://github.com/sharknell/ChattingPrograme): Java 언어 이해를 위해, GUI(java swing)을 이용한 채팅 프로그램
 
 
+<details>
+<summary>
+  My Studying
+</summary>
+   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+</details>
 
 </div>
 
