@@ -50,7 +50,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sharknell&theme=synthwave" alt="GitHub Streak" /></a>
 
 ### 공부
-- <strong> 0st. </strong> [REACT] (https://github.com/sharknell/My_Blog) : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> SIMPLE BLOG
+- <strong> 0st. </strong> [REACT](https://github.com/sharknell/My_Blog) : SIMPLE BLOG 
 
 ### 프로젝트
 - <strong> 0st. </strong> [PortFolio](https://github.com/sharknell/port): My PortPolio( 배포 netlify ) 
