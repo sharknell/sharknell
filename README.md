@@ -57,8 +57,7 @@
 - <strong> 1st. </strong> [Web Project](https://github.com/sharknell/Website): SpringBoot 를 이용한 Web Project
 - <strong> 2st. </strong> [Web Project](https://github.com/sharknell/WebSiteMil): SpringBoot를 이용한 Web Project(개인 프로젝트) 
 - <strong> 3st. </strong> [Java](https://github.com/sharknell/ChattingPrograme): Java 언어 이해를 위해, GUI(java swing)을 이용한 채팅 프로그램
-
-
+- <strong> 4st. </strong> [Java](https://github.com/sharknell/project-one): React 와 Node 로 제작된 쇼핑몰 프로젝트 ( 개인 프로젝트 )
 <details>
 <summary>
   My Studying
